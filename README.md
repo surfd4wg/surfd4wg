@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/surfd4wg?style=for-the-badge">
 
 ![GitHub followers](https://img.shields.io/github/followers/surfd4wg?style=for-the-badge)
-
-.. image:: https://img.shields.io/github/followers/surfd4wg?style=for-the-badge   :alt: GitHub followers
+![Twitter Follow](https://img.shields.io/twitter/follow/surfd4wg?style=for-the-badge)
