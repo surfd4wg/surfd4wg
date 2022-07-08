@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/surfd4wg?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/surfd4wg?style=for-the-badge)
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/othneildrew
