@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/surfd4wg?style=for-the-badge">
+![GitHub followers](https://img.shields.io/github/followers/surfd4wg?style=for-the-badge)
